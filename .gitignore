@@ -1,0 +1,52 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+.pub-cache/
+.flutter-plugins/
+.idea/
+android/.gradle/
+android/app/build/
+android/.idea/
+android/local.properties
+ios/Flutter/Flutter.framework
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.so
+*.dylib
+
+# Caches
+*.class
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
