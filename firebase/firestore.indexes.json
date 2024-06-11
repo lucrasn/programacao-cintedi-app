@@ -1,0 +1,74 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "programacao",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "day01",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "modalidade",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nome_categoria",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "horario_inicio",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "programacao",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "day02",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "modalidade",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nome_categoria",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "horario_inicio",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nome",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "programacao",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "day03",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "modalidade",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nome_categoria",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "horario_inicio",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461805194562",
+    "project_id": "programacaoeventoconedu",
+    "storage_bucket": "programacaoeventoconedu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461805194562:android:4f374ae777e6258356ccdb",
+        "android_client_info": {
+          "package_name": "com.realizeeventos.programacaoconedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwQ9VZ28oRLXkeLdp9Woz27rS7d1QSUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
