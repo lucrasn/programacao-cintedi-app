@@ -6,6 +6,14 @@
 
 Descubra a programação completa do CINTEDI, o maior evento científico na área de educação! Com nosso aplicativo, você terá acesso fácil e rápido a todas as atividades do evento, incluindo palestras, apresentações de trabalhos científicos, workshops e atividades culturais.
 
+## Tecnologias Utilizadas
+
+Este aplicativo foi desenvolvido utilizando as seguintes tecnologias:
+
+- **Dart:** Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
+- **Flutter:** Framework utilizado para criar a interface de usuário (UI) do aplicativo, permitindo uma experiência de usuário rica e responsiva em dispositivos iOS, Android e web.
+- **FlutterFlow:** Plataforma utilizada para auxiliar no desenvolvimento do aplicativo, permitindo a criação visual de interfaces Flutter com facilidade.
+
 ## Principais Funcionalidades
 
 - **Programação Completa:** Veja a agenda detalhada de cada dia do evento, com horários, locais e descrições das atividades.
@@ -21,6 +29,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 Para mais informações, entre em contato com [lucrasnobrega.araujo@gmail.com](mailto:lucrasnobrega.araujo@gmail.com).
 
----
+...
 
 Desenvolvido por [lucrasn](https://github.com/seu-usuario)
