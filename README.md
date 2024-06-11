@@ -29,6 +29,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 Para mais informações, entre em contato com [lucrasnobrega.araujo@gmail.com](mailto:lucrasnobrega.araujo@gmail.com).
 
-...
+--
 
 Desenvolvido por [lucrasn](https://github.com/seu-usuario)
