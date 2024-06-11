@@ -13,6 +13,8 @@ Este aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 - **Dart:** Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
 - **Flutter:** Framework utilizado para criar a interface de usuário (UI) do aplicativo, permitindo uma experiência de usuário rica e responsiva em dispositivos iOS, Android e web.
 - **FlutterFlow:** Plataforma utilizada para auxiliar no desenvolvimento do aplicativo, permitindo a criação visual de interfaces Flutter com facilidade.
+- **Firebase:** Plataforma de desenvolvimento de aplicativos móveis do Google, utilizada para autenticação de usuários, armazenamento de dados em tempo real e análise.
+- **Supabase:** Plataforma open-source que fornece serviços de backend como um serviço (BaaS), incluindo autenticação, armazenamento de dados e mensagens em tempo real.
 
 ## Principais Funcionalidades
 
