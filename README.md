@@ -31,4 +31,4 @@ Para mais informações, entre em contato com [lucrasnobrega.araujo@gmail.com](m
 
 ---
 
-Desenvolvido por [lucrasn](https://github.com/seu-usuario)
+Desenvolvido por [lucrasn](https://github.com/lucrasn)
