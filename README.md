@@ -23,10 +23,6 @@ Este aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 - **Notificações em Tempo Real:** Receba alertas sobre mudanças na programação e lembretes para não perder nenhuma atividade importante.
 - **Mapas do Evento:** Navegue pelos diferentes espaços do evento com mapas detalhados que facilitam sua locomoção.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Para mais informações, entre em contato com [lucrasnobrega.araujo@gmail.com](mailto:lucrasnobrega.araujo@gmail.com).
